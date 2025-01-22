@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.counter-screen{
+    background-color: white;
+}
